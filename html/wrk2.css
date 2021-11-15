@@ -1,0 +1,14 @@
+body{
+    background-color: azure;
+}
+h1{
+    color: blue;
+    font-size: medium;
+}
+p{
+    color: grey;
+    font-size: small;
+}
+a{
+    color: indigo;
+}

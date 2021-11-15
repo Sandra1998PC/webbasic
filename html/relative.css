@@ -1,0 +1,29 @@
+.row{
+    border: solid black 1px;
+    background-color: gray;
+    width: 600px;
+    height: 300px;
+    display: flex;
+    /* space-between */
+    /* space-evenly */
+    /* flex-end and flex-start*/
+    align-items: center;
+    justify-content: space-around;
+}
+.col{
+    width: 100px;
+    height: 100px;
+    border: solid black 1px;
+}
+.col1{
+    background-color: goldenrod;
+}
+.col2{
+    background-color: cornsilk;
+}
+.col3{
+    background-color: lightsteelblue;
+}
+.col4{
+    background-color: firebrick;
+}

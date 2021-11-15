@@ -1,0 +1,21 @@
+header{
+    background-color:rgb(49, 132, 138);
+}
+aside{
+    text-align: center;
+    width: 212px;
+    background-color: rgb(231, 231, 231);
+    height: 1000px;
+}
+#a{
+    color:rgb(29, 76, 80) ;
+}
+img{
+    margin-left: 972px;
+    height: 200px;
+    margin-top: -54px;
+}
+#b{
+    margin-left: 300px;
+    margin-top: -1000px;
+}

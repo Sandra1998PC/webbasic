@@ -1,0 +1,118 @@
+body{
+background-color: black;
+}
+h1
+{
+    color: white;
+    text-align: center;
+}
+div{
+    border:solid 1px black;
+    width: 50px;
+    height: 100px;
+}
+#b1{
+    background-color: blue;
+    margin-left: 513px;
+    margin-top: 100px;
+}
+#b2{
+    background-color: rgb(255, 0, 234);
+    margin-left: 573px;
+    margin-top: -102px;
+}
+#b3{
+    background-color: rgb(204, 0, 255);
+    margin-left: 633px;
+    margin-top: -102px;
+}
+#b4{
+    background-color: rgb(0, 195, 255);
+    margin-left: 693px;
+    margin-top: -102px;
+}
+#b5{
+    background-color: rgb(255, 0, 212);
+    margin-left: 753px;
+    margin-top: -102px;
+}
+#b6{
+    background-color:rgb(94, 19, 19);
+    margin-left: 452px;
+    margin-top: 14px;
+}
+#b7{
+    background-color: rgb(0, 255, 234);
+    margin-left: 512px;
+    margin-top: -102px;
+}
+#b8{
+    background-color: rgb(255, 0, 64);
+    margin-left: 573px;
+    margin-top: -102px;
+}
+#b9{
+    background-color: rgb(72, 255, 0);
+    margin-left: 633px;
+    margin-top: -102px;
+}
+#b10{
+    background-color: rgb(255, 251, 0);
+    margin-left: 693px;
+    margin-top: -102px;
+}
+#b11{
+    background-color: rgb(255, 30, 0);
+    margin-left: 753px;
+    margin-top: -102px;
+}
+#b12{
+    background-color: rgb(174, 0, 255);
+    margin-left: 811px;
+    margin-top: -102px;
+}
+#b13{
+    background-color:rgb(156, 24, 106);
+    margin-left: 392px;
+    margin-top: 14px;
+}
+#b14{
+    background-color:rgb(33, 25, 102);
+    margin-left: 453px;
+    margin-top: -102px;
+}
+#b15{
+    background-color:rgb(119, 82, 185);
+    margin-left: 513px;
+    margin-top: -102px;
+}
+#b16{
+    background-color:rgb(28, 167, 23);
+    margin-left: 573px;
+    margin-top: -102px;
+}
+#b17{
+    background-color:rgb(201, 110, 36);
+    margin-left: 633px;
+    margin-top: -102px;
+}
+#b18{
+    background-color:rgb(158, 35, 35);
+    margin-left: 693px;
+    margin-top: -102px;
+}
+#b19{
+    background-color:rgb(32, 196, 87);
+    margin-left: 753px;
+    margin-top: -102px;
+}
+#b20{
+    background-color:rgb(67, 36, 180);
+    margin-left: 812px;
+    margin-top: -102px;
+}
+#b21{
+    background-color:rgb(212, 194, 32);
+    margin-left: 872px;
+    margin-top: -102px;
+}

@@ -1,0 +1,40 @@
+
+body{
+    width: 200%;
+    height: 1000px;
+}
+.row{
+    width: 500px;
+    height: 300px;
+    border: solid black 1px;
+    background-color:cadetblue ;
+    position: relative;
+    left: 500px;
+    top: 500px;
+}
+.col
+{
+    width: 100px;
+    height: 200px;
+    border: solid black 1px;
+    float: left;
+}
+.col1{
+    position: absolute;
+    background-color: cornflowerblue;
+}
+.col2{
+    position: absolute;
+    background-color: darkblue;
+    left: 105px;
+}
+.col3{
+    position: absolute;
+    background-color: darkcyan;
+    left: 210px;
+}
+.col4{
+    position: absolute;
+    background-color: indigo;
+    left: 315px;
+}

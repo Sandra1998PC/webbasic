@@ -1,0 +1,30 @@
+aside{
+    background-color: rgb(10, 145, 150);
+    margin-left: 750px;
+    height: 1200px;
+    color: white;
+    padding-left: 5px;
+    padding-right: 20px;
+    width: 200px;
+}
+.img{
+    width: 125px;
+    height: 150px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+span{
+   color: rgb(10, 145, 150); 
+}
+.profile{
+    margin-top: -1100px;
+    margin-left: 25px;
+    width: 700px;
+}
+#a{
+    margin-left: 100px;
+    margin-top: -23px;
+}
+#a1{
+    padding-right: 10px;
+}

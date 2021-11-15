@@ -1,0 +1,119 @@
+body{
+    background-image: url(./b.jfif);
+    background-size: cover;
+    font-family: 'Cookie', cursive;
+    color: rgb(138, 44, 44);
+}
+.row{
+    margin-top: 100px;
+    background-color: white !important;
+    width: 1100px;
+    height: 475px;
+    position: relative;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.col1{
+
+position: absolute;
+padding: 10px;
+font-family: 'Cookie', cursive;
+}
+.col2{
+    color: rgb(138, 44, 44);
+    text-align: center;
+    width: 400px;
+    position: absolute;
+    left: 550px;
+    top: 100px;
+    font-family: 'Cookie', cursive;
+}
+#a{
+    width: 500px;
+    height: 450px;
+}
+h3{
+    text-align: center;
+    color: rgb(100, 27, 27);
+}
+#p1{
+    width: 500px;
+}
+.ad{
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 500px;
+    height: 550px;
+    background-color: white;
+    font-family: 'Cookie', cursive;
+    color: rgb(138, 44, 44);
+    text-align: center;
+    padding: 20px;
+}
+.dis{
+    margin-top: -550px;
+    margin-left: 700px;
+    width: 500px;
+    height: 550px;
+    background-color: white;
+    font-family: 'Cookie', cursive;
+    color: rgb(138, 44, 44);
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+#dis1{
+    padding-left: 100px;
+}
+#p2{
+    padding-left: 30px;
+    padding-right: 10px;
+}
+#dis2{
+    margin-top: 20px;
+    width: 1350px;
+    height: 400px;
+}
+#def{
+    font-family: 'Cookie', cursive;
+    color:black;
+    margin-top: -200px;
+    text-align: center;
+}
+.type{
+    margin-top: 175px;
+}
+.col{
+    width: 400px;
+    height: 500px;
+    background-color: rgba(240, 184, 2, 0.788);
+    font-family: 'Cookie', cursive;
+    color: rgb(138, 44, 44);
+    border: rgb(138, 44, 44) solid 1px ;
+    text-align: center;
+    padding: 10px;
+}
+.col3{
+    margin-top: 175px;
+    padding: 10px;
+}
+.col4{
+    margin-left: 450px;
+    margin-top: -500px;
+}
+.col5{
+    margin-left: 900px;
+    margin-top: -500px;
+}
+.col6{
+    margin-top: 50px;
+
+}
+.col7{
+    margin-left: 450px;
+    margin-top: -500px; 
+}
+.col8{
+    margin-left: 900px;
+    margin-top: -500px;
+}

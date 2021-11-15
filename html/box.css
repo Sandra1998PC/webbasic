@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=Raleway:wght@100&display=swap');
+h1{
+    color: hsl(238,39,31);
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+
+}
+#al{
+    color: rgb(48, 50,110);
+}
+.c1{
+    color: #c77988;
+}
+p{
+    font-size: 20px;
+    font-family: 'IM Fell English SC', serif;
+}

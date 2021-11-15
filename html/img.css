@@ -1,0 +1,14 @@
+#a{
+    border:solid 1px black;
+    width: 30%;
+    float: left;
+}
+div img{
+    width: 100%;
+}
+div p{
+    padding: 5px;
+}
+#b{
+    margin-left: 150px;
+}
